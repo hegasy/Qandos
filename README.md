@@ -30,13 +30,13 @@ pip install numpy alive-progress
 1. Make sure the script has executable permissions. If not, you can set them using the following command:
 
    ```shell
-   chmod +x script.py
+   chmod +x main.py
    ```
 
 2. Run the script using the following command:
 
    ```shell
-   ./script.py
+   ./main.py
    ```
 
 3. The script will prompt you for the necessary information:
